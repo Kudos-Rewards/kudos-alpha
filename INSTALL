@@ -1,9 +1,9 @@
-Building Litecoin
+Building Kudos-alpha
 
-See doc/readme-qt.rst for instructions on building Litecoin-Qt,
+See doc/readme-qt.rst for instructions on building Kudos-alpha-Qt,
 the intended-for-end-users, nice-graphical-interface, reference
-implementation of Litecoin.
+implementation of Kudos-alpha.
 
-See doc/build-*.txt for instructions on building litecoind,
+See doc/build-*.txt for instructions on building kudos-alphad,
 the intended-for-services, no-graphical-interface, reference
-implementation of Litecoin.
+implementation of Kudos-alpha.
